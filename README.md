@@ -15,6 +15,6 @@ The passwords are saved in new text file names "password.txt". When you hit "gen
 
 No installation required. Just hit download on the release. File name is "main.exe".
 
-## Made By
+### Made By
 
   - y1chu
