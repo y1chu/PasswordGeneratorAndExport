@@ -1,6 +1,6 @@
 # Ez Password Generator
 
-Super simple password generator
+Super simple password generator.
 
 ## Getting Started
 
